@@ -1,5 +1,7 @@
 # Frontend Mentor - Blog preview card
 
+VEJA COMO FICOU O RESULTADO: https://matheusmorilha.github.io/blog-preview-card-main/
+
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
